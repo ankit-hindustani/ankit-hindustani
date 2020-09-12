@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Ankit Singh - aka [ankit-hindustani][githubweb] 👋
 
-<!--
-**ankit-hindustani/ankit-hindustani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, Programer, and Coder with my passion!
 
-Here are some ideas to get you started:
+- 🔭 My new project is a [My Secret Notes][projectwebsite]!
+- 🌱 I’m currently learning what I don't know 🤣
+- 👯 I’m looking to collaborate with other content creators
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="mygla.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="singhankit103 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ankit-hindustani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+  <img align="left" alt="ankit-hindustani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankit-hindustani&show_icons=true&hide_border=true" />
+
+[githubweb]: https://github.com/ankit-hindustani
+[projectwebsite]: https://mysecretnotes.herokuapp.com
+[website]: https://mygla.in
+[twitter]: https://twitter.com/singhankit103
+[linkedin]: https://linkedin.com/in/ankit-hindustani
