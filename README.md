@@ -1,6 +1,6 @@
 ### Hi there, I'm Ankit Singh - aka [ankit-hindustani][githubweb] 👋
 
-## I'm a Student, Programer, and Coder with my passion!
+## I'm a Student, Programmer, and Coder with my passion!
 
 - 🔭 My new project is a [My Secret Notes][projectwebsite]!
 - 🌱 I’m currently learning what I don't know 🤣
