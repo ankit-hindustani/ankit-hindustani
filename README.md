@@ -2,7 +2,6 @@
 
 ## I'm a Student, Programmer, and Coder with my passion!
 
-- 🔭 My new project is a [My Secret Notes][projectwebsite]!
 - 🌱 I’m currently learning what I don't know 🤣
 - 👯 I’m looking to collaborate with other content creators
 
