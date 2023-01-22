@@ -1,4 +1,4 @@
-### Hi there, I'm Ankit Singh - aka [ankit-hindustani][githubweb] 👋
+### Hi there, I'm Ankit Singh 👋
 
 ## I'm a Student, Programmer, and Coder with my passion!
 
